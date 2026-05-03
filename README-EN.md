@@ -1,4 +1,4 @@
-# Maclaw (Minimal AI Agent for Mac)
+# Maclaw (OpenClaw on my Mac Mini)
 
 **Languages:** [English](README-EN.md) | [한국어](README.md) | [日本語](README-JP.md)
 

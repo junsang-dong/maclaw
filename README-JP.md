@@ -1,4 +1,4 @@
-# Maclaw (Mac向けミニAIエージェント)
+# Maclaw (OpenClaw on my Mac Mini)
 
 **言語:** [English](README-EN.md) | [한국어](README.md) | [日本語](README-JP.md)
 
