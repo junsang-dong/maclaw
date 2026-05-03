@@ -1,6 +1,6 @@
 # Maclaw (Mac向けミニAIエージェント)
 
-**言語:** [English](README.md) | [한국어](README-KR.md) | [日本語](README-JP.md)
+**言語:** [English](README-EN.md) | [한국어](README.md) | [日本語](README-JP.md)
 
 Maclawは軽量コアと最小限のシステムプロンプトを基盤に、エージェントの自己学習と発展を志向するPi系AIエージェントです。
 
